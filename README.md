@@ -2,4 +2,4 @@
 This will be a folder of quick and simple beginner projects I think up of for fun. I am thinking of making a code along series on youtube where I will build these in real time.
 1. constrainedinput.py:
 This quick project is supposed to simulate a social media bio where there is a maximum amount of characters. Very simple to make yet that does not mean it is not fun or extremely easy either, the coder must still juggle a couple of moving parts... here is a demo: ![Alt Text](https://github.com/derikvanschaik/quick-and-simple-beginner-projects/blob/main/constrainedinputgif.gif)
-
+Note: A lot of inspiration is drawn from the PySimpleGUI Demo projects, I will be implementing all these projects with my own ideas and ways of implementation but if the concepts seem eerily familiar that is probably because I have read A LOT of demo projects in my day. The demo programs I speak of can be found here: https://github.com/PySimpleGUI/PySimpleGUI/tree/master/DemoPrograms
