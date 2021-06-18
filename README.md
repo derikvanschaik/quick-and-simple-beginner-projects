@@ -12,5 +12,10 @@ This quick project is supposed to simulate a the find and replace feature we can
 This is a good introduction to the 'graph' object from pysimplegui. Probably my favorite element, especially since it blows the door open on the type of projects you can make with PSG. Go check out my repositories named: 'MIMI' and/or 'mindmap' for different mindmap applications that use this graph element. This virtual plotter tells you in real time where the current point on the line is, and moves the point up the y=x line if you press 'j' and down if you press 'k'. Try it out. Demo: 
 ![Alt Text](https://github.com/derikvanschaik/quick-and-simple-beginner-projects/blob/main/virtualplotter.gif)
 
+3. dragging.py:
+Did I mention that I love the graph object?? My god is this an amazing feauture, I wish I had discovered it long ago. Anyways, I just figured out one implementation of the 'dragging' objects on the canvas while writing this out. So much fun! I need to add this functionality to my 'MIMI' and 'mindmap' applications. 
+Demo:
+![Alt Text](https://github.com/derikvanschaik/quick-and-simple-beginner-projects/blob/main/dragging.gif)
+
 
 Note: A lot of inspiration is drawn from the PySimpleGUI Demo projects, I will be implementing all these projects with my own ideas and ways of implementation but if the concepts seem eerily familiar that is probably because I have read A LOT of demo projects in my day. The demo programs I speak of can be found here: https://github.com/PySimpleGUI/PySimpleGUI/tree/master/DemoPrograms
