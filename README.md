@@ -18,5 +18,8 @@ Did I mention that I love the graph object?? My god is this an amazing feauture,
 Demo:
 ![Alt Text](https://github.com/derikvanschaik/quick-and-simple-beginner-projects/blob/main/dragging.gif)
 
+3. econpy.py: Just some more graph fun. Demo:
+![Alt Text](https://github.com/derikvanschaik/quick-and-simple-beginner-projects/blob/main/econpy.gif)
+
 
 Note: A lot of inspiration is drawn from the PySimpleGUI Demo projects, I will be implementing all these projects with my own ideas and ways of implementation but if the concepts seem eerily familiar that is probably because I have read A LOT of demo projects in my day. The demo programs I speak of can be found here: https://github.com/PySimpleGUI/PySimpleGUI/tree/master/DemoPrograms
