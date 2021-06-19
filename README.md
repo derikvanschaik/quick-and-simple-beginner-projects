@@ -21,5 +21,10 @@ Demo:
 3. econpy.py: Just some more graph fun. Demo:
 ![Alt Text](https://github.com/derikvanschaik/quick-and-simple-beginner-projects/blob/main/econpy.gif)
 
+4. enhancedplotter.py: This is a program where you use the user input to plot observations onto the graph. you practice getting user input, creating a plotting graph, plotting the elements and have some fun with the random.randint() function to increase the variability between observations. Fantastic. 
+Demo: 
+![Alt Text](https://github.com/derikvanschaik/quick-and-simple-beginner-projects/blob/main/enhancedplotter.gif)
+
+
 
 Note: A lot of inspiration is drawn from the PySimpleGUI Demo projects, I will be implementing all these projects with my own ideas and ways of implementation but if the concepts seem eerily familiar that is probably because I have read A LOT of demo projects in my day. The demo programs I speak of can be found here: https://github.com/PySimpleGUI/PySimpleGUI/tree/master/DemoPrograms
