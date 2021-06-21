@@ -25,6 +25,10 @@ Demo:
 Demo: 
 ![Alt Text](https://github.com/derikvanschaik/quick-and-simple-beginner-projects/blob/main/enhancedplotter.gif)
 
+5. tangency.py: This one was so much fun to make, anyone who has taken calculus will surely love this one. This plots the tangency line at the given x point on the y = x^2 curve we have plotted. The beauty of this is that (like all the other projects in this repo) we made this from scratch using only the pysimplegui canvas -- no external plotting library or anything. It shows how much we can do with this module. Check it out! 
+Demo: 
+![Alt Text](https://github.com/derikvanschaik/quick-and-simple-beginner-projects/blob/main/tangency.gif)
+
 
 
 Note: A lot of inspiration is drawn from the PySimpleGUI Demo projects, I will be implementing all these projects with my own ideas and ways of implementation but if the concepts seem eerily familiar that is probably because I have read A LOT of demo projects in my day. The demo programs I speak of can be found here: https://github.com/PySimpleGUI/PySimpleGUI/tree/master/DemoPrograms
