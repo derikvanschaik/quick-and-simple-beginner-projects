@@ -18,14 +18,17 @@ Did I mention that I love the graph object?? My god is this an amazing feauture,
 Demo:
 ![Alt Text](https://github.com/derikvanschaik/quick-and-simple-beginner-projects/blob/main/dragging.gif)
 
-### 5. econpy.py: Just some more graph fun. Demo:
+### 5. econpy.py:
+Just some more graph fun. Demo:
 ![Alt Text](https://github.com/derikvanschaik/quick-and-simple-beginner-projects/blob/main/econpy.gif)
 
-### 6. enhancedplotter.py: This is a program where you use the user input to plot observations onto the graph. you practice getting user input, creating a plotting graph, plotting the elements and have some fun with the random.randint() function to increase the variability between observations. Fantastic. 
+### 6. enhancedplotter.py:
+This is a program where you use the user input to plot observations onto the graph. you practice getting user input, creating a plotting graph, plotting the elements and have some fun with the random.randint() function to increase the variability between observations. Fantastic. 
 Demo: 
 ![Alt Text](https://github.com/derikvanschaik/quick-and-simple-beginner-projects/blob/main/enhancedplotter.gif)
 
-### 7. tangency.py: This one was so much fun to make, anyone who has taken calculus will surely love this one. This plots the tangency line at the given x point on the y = x^2 curve we have plotted. The beauty of this is that (like all the other projects in this repo) we made this from scratch using only the pysimplegui canvas -- no external plotting library or anything. It shows how much we can do with this module. Check it out! 
+### 7. tangency.py:
+This one was so much fun to make, anyone who has taken calculus will surely love this one. This plots the tangency line at the given x point on the y = x^2 curve we have plotted. The beauty of this is that (like all the other projects in this repo) we made this from scratch using only the pysimplegui canvas -- no external plotting library or anything. It shows how much we can do with this module. Check it out! 
 Demo: 
 ![Alt Text](https://github.com/derikvanschaik/quick-and-simple-beginner-projects/blob/main/tangency.gif)
 
