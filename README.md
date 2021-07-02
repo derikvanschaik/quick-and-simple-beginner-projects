@@ -32,6 +32,7 @@ This one was so much fun to make, anyone who has taken calculus will surely love
 Demo: 
 ![Alt Text](https://github.com/derikvanschaik/quick-and-simple-beginner-projects/blob/main/tangency.gif)
 
-
+### 8 surveybuilderdemo.py:
+Code along with me and make this survey building application from scratch: https://www.youtube.com/watch?v=f7PnELO1knw
 
 Note: A lot of inspiration is drawn from the PySimpleGUI Demo projects, I will be implementing all these projects with my own ideas and ways of implementation but if the concepts seem eerily familiar that is probably because I have read A LOT of demo projects in my day. The demo programs I speak of can be found here: https://github.com/PySimpleGUI/PySimpleGUI/tree/master/DemoPrograms
