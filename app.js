@@ -31,7 +31,9 @@ window.onload = (event) =>{
 	});
 
 	clear.addEventListener("click", (event) =>{
-		text.value = ""; 
+		text.value = "";
+		wordCount.textContent = 0;
+		charCount.textContent = 0;  
 	}); 
 	copy.addEventListener("click", (event) =>{
 		if (text.value){
