@@ -2,8 +2,7 @@
 This will be a folder of quick and simple beginner projects I think up of for fun. I am thinking of making a code along series on youtube where I will build these in real time.
 # Javascript: 
 ### 1. app.js, index.html -- similar to the pysimplegui find and replace app, will find and replace a word you wish to replace from the text you provided in the text area. Features: Clear, copy, find, replace, word count, character count. 
-Demo:
-![Alt Text](https://github.com/derikvanschaik/quick-and-simple-beginner-projects/blob/main/findreplacejs.gif)
+
 
 # Python (PysimpleGUI)
 ### 1. constrainedinput.py:
