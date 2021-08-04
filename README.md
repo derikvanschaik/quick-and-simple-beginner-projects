@@ -6,6 +6,10 @@ This will be a folder of quick and simple beginner projects I think up of for fu
 
 # Python (PysimpleGUI)
 
+### sums2.py
+This visualizes the Reiman sums over the interval of (9,95) for the y = x function. The visualization is fantastic and is what this is really about. I wanted to include the area calculation as well, however the math is a bit off. Obviously as you increase the number of rectangles the area should go from being a poorer estimation to a better one--but this isn't the case with this program. Obviously this isn't really about the math and more about the visualization, I kind of think the issue is with floating point values here but I will come back to it and see if there's any way to remedy this. 
+![Alt Text](https://github.com/derikvanschaik/quick-and-simple-beginner-projects/blob/main/sums2.gif)
+
 ### animate.py 
 Animates the angles of the unit circle, you can control the speed of the animation using the slider widget. Plenty more cool things you can do with this. 
 ![Alt Text](https://github.com/derikvanschaik/quick-and-simple-beginner-projects/blob/main/animate.gif)
