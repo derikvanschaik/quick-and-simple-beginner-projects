@@ -1,10 +1,7 @@
 # quick-and-simple-beginner-projects
 This will be a folder of quick and simple beginner projects I think up of for fun. I am thinking of making a code along series on youtube where I will build these in real time.
-# Javascript: 
+
 ### 1. app.js, index.html -- similar to the pysimplegui find and replace app, will find and replace a word you wish to replace from the text you provided in the text area. Features: Clear, copy, find, replace, word count, character count. 
-
-
-# Python (PysimpleGUI)
 
 ### sums2.py
 This visualizes the Reiman sums over the interval of (9,95) for the y = x function. The visualization is fantastic and is what this is really about. I wanted to include the area calculation as well, however the math is a bit off. Obviously as you increase the number of rectangles the area should go from being a poorer estimation to a better one--but this isn't the case with this program. Obviously this isn't really about the math and more about the visualization, I kind of think the issue is with floating point values here but I will come back to it and see if there's any way to remedy this. 
@@ -25,6 +22,10 @@ This is a super fast protype showing how you can make a clicking cursor using th
 ### animate.py 
 Animates the angles of the unit circle, you can control the speed of the animation using the slider widget. Plenty more cool things you can do with this. 
 ![Alt Text](https://github.com/derikvanschaik/quick-and-simple-beginner-projects/blob/main/animate.gif)
+
+### htmlcanvasfun.html and canvasfun.js 
+Testing out the DOM html canvas api. Lots of fun so far. More to come with this as I learn this canvas element more thoroughly! Excited to get more javascript into this particular repo. 
+![Alt Text](https://github.com/derikvanschaik/quick-and-simple-beginner-projects/blob/main/canvasfunjs.gif)
 
 ###  constrainedinput.py:
 This quick project is supposed to simulate a social media bio where there is a maximum amount of characters. Very simple to make yet that does not mean it is not fun or extremely easy either, the coder must still juggle a couple of moving parts... here is a demo:
