@@ -18,6 +18,10 @@ Like sums2.py but you can now change the [a,b] intervals by dragging! Isn't that
 Fun Concept of creating and dragging multiple objects onto the graph widget. If you're coding this and would like to make additional enhancements here are a few off the top of my head: 1. Make the dimensions of the objects variable -- perhaps a slider to increase or decrease the size of the circles or the width and height of the rectangles? 2. Draw other objects -- this is made somewhat easier for us due to the 'draw_polygon' method from the graph object. Have fun with it! 
 ![Alt Text](https://github.com/derikvanschaik/quick-and-simple-beginner-projects/blob/main/canvasfun.gif)
 
+### canvasfun2.py
+This is a super fast protype showing how you can make a clicking cursor using the pysimplegui graph element (which I interchangeably call 'Canvas' often. Sorry about that!)
+![Alt Text](https://github.com/derikvanschaik/quick-and-simple-beginner-projects/blob/main/canvasfun2.gif)
+
 ### animate.py 
 Animates the angles of the unit circle, you can control the speed of the animation using the slider widget. Plenty more cool things you can do with this. 
 ![Alt Text](https://github.com/derikvanschaik/quick-and-simple-beginner-projects/blob/main/animate.gif)
