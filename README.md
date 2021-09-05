@@ -11,6 +11,16 @@ This visualizes the Reiman sums over the interval of (9,95) for the y = x functi
 Like sums2.py but you can now change the [a,b] intervals by dragging! Isn't that cool. Check it out:
 ![Alt Text](https://github.com/derikvanschaik/quick-and-simple-beginner-projects/blob/main/sums3.gif)
 
+### sorting.py
+Animates insertion sort and selection sort on user provided series (seperated by spaces) or a randomly generated array
+of length determined by slider that user slides. Milliseconds of animation (animation speed) are determined in final input on layout.
+![Alt Text](https://github.com/derikvanschaik/quick-and-simple-beginner-projects/blob/main/sorting.gif)
+
+### zoom.py
+creates 'zoom' feature on pysimplegui graph. 
+![Alt Text](https://github.com/derikvanschaik/quick-and-simple-beginner-projects/blob/main/zoom.gif)
+
+
 ### canvasfun.py
 Fun Concept of creating and dragging multiple objects onto the graph widget. If you're coding this and would like to make additional enhancements here are a few off the top of my head: 1. Make the dimensions of the objects variable -- perhaps a slider to increase or decrease the size of the circles or the width and height of the rectangles? 2. Draw other objects -- this is made somewhat easier for us due to the 'draw_polygon' method from the graph object. Have fun with it! 
 ![Alt Text](https://github.com/derikvanschaik/quick-and-simple-beginner-projects/blob/main/canvasfun.gif)
